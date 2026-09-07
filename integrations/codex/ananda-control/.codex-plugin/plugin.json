@@ -1,0 +1,18 @@
+{
+  "name": "ananda-control",
+  "version": "0.1.0",
+  "description": "Native profile and EQ control for Ananda Control on Windows.",
+  "author": {
+    "name": "Local developer"
+  },
+  "interface": {
+    "displayName": "Ananda Control",
+    "shortDescription": "Use Ananda Control in Codex.",
+    "longDescription": "Control Ananda Control through 17 typed native MCP tools. Switch profiles, edit EQ, manage headphones and read diagnostics while the app stays in the tray.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Show my Ananda Control profiles and current EQ status."
+  },
+  "mcpServers": "./.mcp.json"
+}

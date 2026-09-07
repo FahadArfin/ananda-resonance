@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "ananda-control": {
+      "command": "C:\\Users\\fahad\\Applications\\Ananda Control\\ananda-control.exe",
+      "args": [
+        "--mcp"
+      ]
+    }
+  }
+}
